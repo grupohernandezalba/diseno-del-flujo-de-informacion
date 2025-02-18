@@ -1,0 +1,82 @@
+[
+    {
+        "nombre" : "Cecilia Sofia",
+        "apellidos" : "Cardona Bustamante",
+        "participaciones" : 3,
+        "practicas" : 1,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Juan David",
+        "apellidos" : "Espinosa Canuto",
+        "participaciones" : 3,
+        "practicas" : 1,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Nestor Alejandro",
+        "apellidos" : "Mendoza Ríos",
+        "participaciones" : 0,
+        "practicas" : 1,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Gael",
+        "apellidos" : "Morales Vargas",
+        "participaciones" : 1,
+        "practicas" : 2,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Cristopher",
+        "apellidos" : "Ornelas López",
+        "participaciones" : 2,
+        "practicas" : 0,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Mariano",
+        "apellidos" : "Padilla Gutiérrez",
+        "participaciones" : 1,
+        "practicas" : 1,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Oscar Eduardo",
+        "apellidos" : "Rosales Morales",
+        "participaciones" : 3,
+        "practicas" : 2,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Víctor Alejandro",
+        "apellidos" : "Sánchez Parra",
+        "participaciones" : 1,
+        "practicas" : 0,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Saúl Ismael",
+        "apellidos" : "Velázquez Delgado",
+        "participaciones" : 0,
+        "practicas" : 0,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    },
+    {
+        "nombre" : "Christopher Uriel",
+        "apellidos" : "Diaz Casillas",
+        "participaciones" : 1,
+        "practicas" : 0,
+        "foto" : "imagenes/sin-imagen.png",
+        "equipo" : "NA"
+    }
+]
