@@ -4,7 +4,7 @@
         "apellidos" : "Cardona Bustamante",
         "participaciones" : 3,
         "practicas" : 1,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/sofia.png",
         "equipo" : "NA"
     },
     {
@@ -12,7 +12,7 @@
         "apellidos" : "Espinosa Canuto",
         "participaciones" : 3,
         "practicas" : 1,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/david.png",
         "equipo" : "NA"
     },
     {
@@ -20,7 +20,7 @@
         "apellidos" : "Mendoza Ríos",
         "participaciones" : 0,
         "practicas" : 1,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/nestor.png",
         "equipo" : "NA"
     },
     {
@@ -28,7 +28,7 @@
         "apellidos" : "Morales Vargas",
         "participaciones" : 1,
         "practicas" : 2,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/gael.png",
         "equipo" : "NA"
     },
     {
@@ -36,7 +36,7 @@
         "apellidos" : "Ornelas López",
         "participaciones" : 2,
         "practicas" : 0,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/chris-ornelas.png",
         "equipo" : "NA"
     },
     {
@@ -76,7 +76,7 @@
         "apellidos" : "Diaz Casillas",
         "participaciones" : 1,
         "practicas" : 0,
-        "foto" : "imagenes/sin-imagen.png",
+        "foto" : "imagenes/chris-uriel.png",
         "equipo" : "NA"
     }
 ]
