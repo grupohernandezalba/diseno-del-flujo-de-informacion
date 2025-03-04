@@ -26,8 +26,8 @@
     {
         "nombre" : "Gael",
         "apellidos" : "Morales Vargas",
-        "participaciones" : 5,
-        "practicas" : 4,
+        "participaciones" : 6,
+        "practicas" : 6,
         "foto" : "imagenes/gael.png",
         "equipo" : "NA"
     },
@@ -35,7 +35,7 @@
         "nombre" : "Cristopher",
         "apellidos" : "Ornelas López",
         "participaciones" : 2,
-        "practicas" : 1,
+        "practicas" : 3,
         "foto" : "imagenes/chris-ornelas.png",
         "equipo" : "NA"
     },
