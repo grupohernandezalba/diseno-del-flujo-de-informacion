@@ -3,47 +3,47 @@
         "nombre" : "Cecilia Sofia",
         "apellidos" : "Cardona Bustamante",
         "participaciones" : 7,
-        "practicas" : 2,
-        "foto" : "imagenes/sofia.png",
+        "practicas" : 4,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Juan David",
         "apellidos" : "Espinosa Canuto",
         "participaciones" : 5,
-        "practicas" : 5,
-        "foto" : "imagenes/david.png",
+        "practicas" : 8,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Nestor Alejandro",
         "apellidos" : "Mendoza Ríos",
         "participaciones" : 3,
-        "practicas" : 6,
-        "foto" : "imagenes/nestor.png",
+        "practicas" : 7,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Gael",
         "apellidos" : "Morales Vargas",
         "participaciones" : 6,
-        "practicas" : 6,
-        "foto" : "imagenes/gael.png",
+        "practicas" : 8,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Cristopher",
         "apellidos" : "Ornelas López",
         "participaciones" : 2,
-        "practicas" : 3,
-        "foto" : "imagenes/chris-ornelas.png",
+        "practicas" : 8,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Mariano",
         "apellidos" : "Padilla Gutiérrez",
         "participaciones" : 1,
-        "practicas" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -51,8 +51,8 @@
         "nombre" : "Oscar Eduardo",
         "apellidos" : "Rosales Morales",
         "participaciones" : 5,
-        "practicas" : 5,
-        "foto" : "imagenes/oscar-capitan.png",
+        "practicas" : 8,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
@@ -67,7 +67,7 @@
         "nombre" : "Saúl Ismael",
         "apellidos" : "Velázquez Delgado",
         "participaciones" : 1,
-        "practicas" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -75,8 +75,8 @@
         "nombre" : "Christopher Uriel",
         "apellidos" : "Diaz Casillas",
         "participaciones" : 3,
-        "practicas" : 0,
-        "foto" : "imagenes/chris-uriel.png",
+        "practicas" : 3,
+        "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     }
 ]
