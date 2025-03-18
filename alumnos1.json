@@ -1,81 +1,81 @@
 [
     {
-        "nombre" : "Cecilia Sofia",
+        "nombre" : "Cecilia Sofia (10)",
         "apellidos" : "Cardona Bustamante",
-        "participaciones" : 2,
-        "practicas" : 1,
+        "participaciones" : 7,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Juan David",
+        "nombre" : "Juan David (10)",
         "apellidos" : "Espinosa Canuto",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 5,
+        "practicas" : 8,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Nestor Alejandro",
+        "nombre" : "Nestor Alejandro (10)",
         "apellidos" : "Mendoza Ríos",
-        "participaciones" : 2,
-        "practicas" : 1,
+        "participaciones" : 3,
+        "practicas" : 7,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Gael",
+        "nombre" : "Gael (10)",
         "apellidos" : "Morales Vargas",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 6,
+        "practicas" : 8,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Cristopher",
+        "nombre" : "Cristopher (9)",
         "apellidos" : "Ornelas López",
-        "participaciones" : 0,
-        "practicas" : 0,
+        "participaciones" : 2,
+        "practicas" : 8,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Mariano",
+        "nombre" : "Mariano (8)",
         "apellidos" : "Padilla Gutiérrez",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 1,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Oscar Eduardo",
+        "nombre" : "Oscar Eduardo (10)",
         "apellidos" : "Rosales Morales",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 5,
+        "practicas" : 8,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Víctor Alejandro",
+        "nombre" : "Víctor Alejandro (10)",
         "apellidos" : "Sánchez Parra",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 4,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Saúl Ismael",
+        "nombre" : "Saúl Ismael (7)",
         "apellidos" : "Velázquez Delgado",
-        "participaciones" : 2,
-        "practicas" : 0,
+        "participaciones" : 1,
+        "practicas" : 3,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
-        "nombre" : "Christopher Uriel",
+        "nombre" : "Christopher Uriel (8)",
         "apellidos" : "Diaz Casillas",
-        "participaciones" : 0,
-        "practicas" : 0,
+        "participaciones" : 4,
+        "practicas" : 4,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     }

@@ -53,6 +53,8 @@
         </div>
     </div>
 
+    <!--
+
     <div class="container-fluid">
         <div class="row text-center my-3">
             <div class="col-12">
@@ -70,6 +72,8 @@
             </div>
         </div>
     </div>
+
+        -->
 
 
 
@@ -98,8 +102,8 @@
     
                 html = '';
                 let contador = 0;
-                let totalPracticas = 5;
-                let totalParticipaciones = 3;
+                let totalPracticas = 1;
+                let totalParticipaciones = 2;
 
                 let sumaPracticas = 0;
                 let sumaParticipaciones = 0;
@@ -114,7 +118,7 @@
                         porcentajeParticipaciones =  (alumno.participaciones * 100 ) / totalParticipaciones; 
     
                         let colorPracticas = (alumno.practicas < totalPracticas ) ? 'text-danger' : 'text-success';
-                        let colorParticipaciones = (alumno.participaciones > 3) ? 'text-success' : 'text-danger';
+                        let colorParticipaciones = (alumno.participaciones >= totalParticipaciones) ? 'text-success' : 'text-danger';
                         
                         calificacionParticipaciones = 0;
                         if(alumno.participaciones>=1){
