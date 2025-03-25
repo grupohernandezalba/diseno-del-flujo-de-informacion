@@ -19,7 +19,7 @@
         "nombre" : "Nestor Alejandro",
         "apellidos" : "Mendoza Ríos",
         "participaciones" : 2,
-        "practicas" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -27,7 +27,7 @@
         "nombre" : "Gael",
         "apellidos" : "Morales Vargas",
         "participaciones" : 2,
-        "practicas" : 0,
+        "practicas" : 1,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
