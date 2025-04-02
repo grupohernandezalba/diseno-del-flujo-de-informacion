@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <h1>Titulo</h1>
+
+    <p><strong>Nombre:</strong></p>
+    <p id="nombre"></p>
+    <p id="apellido"></p>
+
+    <p><strong>Edad:</strong></p>
+    <p id="edad"></p>
+
+    <p><strong>Estado de cuenta</strong></p>
+    <p id="elementoiva"></p>
+    <p id="estadocuenta"></p>
+
+    <script>
+
+        let nombre = document.getElementById("nombre");
+        let apellido = document.getElementById("apellido");
+        let edad = document.getElementById("edad");
+        const IVA = 0.16;
+
+        // Este es un comentario de una sola línea
+        /* 
+        Este es un comentario
+        de varias líneas
+        */
+        //IVA = 14; 
+
+        nombre.innerHTML = "Saul";
+        apellido.innerHTML = "Velazquez";
+        edad.innerHTML = "22";
+
+        let numero = 5000.80;
+        let numero2 = 10000.50;
+
+        //let suma = numero + numero2;
+        let saldo = numero * numero2;
+        console.log(numero);
+        console.log(numero2);
+
+        let estadocuenta = document.getElementById("estadocuenta");
+        let elementoiva = document.getElementById("elementoiva");
+        let iva = saldo * IVA;
+        elementoiva.innerHTML = "El IVA es de: " + iva;
+        estadocuenta.innerHTML = "Su saldo es de: " + saldo;
+
+
+    </script>
+</body>
+</html>
