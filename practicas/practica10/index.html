@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scientific Calculator</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
+    <style>
+        .calculator {
+            max-width: 400px;
+            margin: 50px auto;
+        }
+        .output {
+            height: 60px;
+            font-size: 1.5rem;
+            text-align: right;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="calculator border rounded p-3 shadow">
+            <div class="output bg-light border mb-3" id="output">0</div>
+            <div class="row g-2">
+                <button class="btn btn-secondary col-3" onclick="clearOutput()">C</button>
+                <button class="btn btn-secondary col-3" onclick="appendValue('(')">(</button>
+                <button class="btn btn-secondary col-3" onclick="appendValue(')')">)</button>
+                <button class="btn btn-danger col-3" onclick="deleteLast()">DEL</button>
+
+                <button class="btn btn-light col-3" onclick="appendValue('7')">7</button>
+                <button class="btn btn-light col-3" onclick="appendValue('8')">8</button>
+                <button class="btn btn-light col-3" onclick="appendValue('9')">9</button>
+                <button class="btn btn-warning col-3" onclick="appendValue('/')">/</button>
+
+                <button class="btn btn-light col-3" onclick="appendValue('4')">4</button>
+                <button class="btn btn-light col-3" onclick="appendValue('5')">5</button>
+                <button class="btn btn-light col-3" onclick="appendValue('6')">6</button>
+                <button class="btn btn-warning col-3" onclick="appendValue('*')">*</button>
+
+                <button class="btn btn-light col-3" onclick="appendValue('1')">1</button>
+                <button class="btn btn-light col-3" onclick="appendValue('2')">2</button>
+                <button class="btn btn-light col-3" onclick="appendValue('3')">3</button>
+                <button class="btn btn-warning col-3" onclick="appendValue('-')">-</button>
+
+                <button class="btn btn-light col-3" onclick="appendValue('0')">0</button>
+                <button class="btn btn-light col-3" onclick="appendValue('.')">.</button>
+                <button class="btn btn-success col-3" onclick="calculate()">=</button>
+                <button class="btn btn-warning col-3" onclick="appendValue('+')">+</button>
+
+                <button class="btn btn-info col-4" onclick="appendValue('Math.sin(')">sin</button>
+                <button class="btn btn-info col-4" onclick="appendValue('Math.cos(')">cos</button>
+                <button class="btn btn-info col-4" onclick="appendValue('Math.tan(')">tan</button>
+
+                <button class="btn btn-info col-4" onclick="appendValue('Math.sqrt(')">√</button>
+                <button class="btn btn-info col-4" onclick="appendValue('Math.pow(')">x<sup>y</sup></button>
+                <button class="btn btn-info col-4" onclick="appendValue('Math.log(')">log</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const output = document.getElementById('output');
+
+        function appendValue(value) {
+            if (output.textContent === '0') {
+                output.textContent = value;
+            } else {
+                output.textContent += value;
+            }
+        }
+
+        function clearOutput() {
+            output.textContent = '0';
+        }
+
+        function deleteLast() {
+            output.textContent = output.textContent.slice(0, -1) || '0';
+        }
+
+        function calculate() {
+            try {
+                output.textContent = eval(output.textContent);
+            } catch {
+                output.textContent = 'Error';
+            }
+        }
+    </script>
+</body>
+</html>

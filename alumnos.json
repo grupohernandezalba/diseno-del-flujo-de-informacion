@@ -10,7 +10,7 @@
     {
         "nombre" : "Juan David",
         "apellidos" : "Espinosa Canuto",
-        "participaciones" : 3,
+        "participaciones" : 4,
         "practicas" : 3,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
@@ -18,8 +18,8 @@
     {
         "nombre" : "Nestor Alejandro",
         "apellidos" : "Mendoza Ríos",
-        "participaciones" : 3,
-        "practicas" : 2,
+        "participaciones" : 4,
+        "practicas" : 3,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -27,14 +27,14 @@
         "nombre" : "Gael",
         "apellidos" : "Morales Vargas",
         "participaciones" : 2,
-        "practicas" : 1,
+        "practicas" : 2,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
     {
         "nombre" : "Cristopher",
         "apellidos" : "Ornelas López",
-        "participaciones" : 0,
+        "participaciones" : 1,
         "practicas" : 0,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
@@ -50,8 +50,8 @@
     {
         "nombre" : "Oscar Eduardo",
         "apellidos" : "Rosales Morales",
-        "participaciones" : 2,
-        "practicas" : 3,
+        "participaciones" : 3,
+        "practicas" : 4,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -59,7 +59,7 @@
         "nombre" : "Víctor Alejandro",
         "apellidos" : "Sánchez Parra",
         "participaciones" : 2,
-        "practicas" : 0,
+        "practicas" : 1,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -75,7 +75,7 @@
         "nombre" : "Christopher Uriel",
         "apellidos" : "Diaz Casillas",
         "participaciones" : 0,
-        "practicas" : 0,
+        "practicas" : 1,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     }
