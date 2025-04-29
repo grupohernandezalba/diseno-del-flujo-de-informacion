@@ -11,7 +11,7 @@
         "nombre" : "Juan David",
         "apellidos" : "Espinosa Canuto",
         "participaciones" : 4,
-        "practicas" : 3,
+        "practicas" : 6,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
@@ -51,7 +51,7 @@
         "nombre" : "Oscar Eduardo",
         "apellidos" : "Rosales Morales",
         "participaciones" : 3,
-        "practicas" : 4,
+        "practicas" : 5,
         "foto" : "imagenes/sin-imagen.png",
         "equipo" : "NA"
     },
